@@ -1,0 +1,20 @@
+body {
+    background-color: #D9F0DF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    margin: 10px;
+}
+
+.tittle {
+    text-align: center;
+}
+
+.beers {
+    margin: 10px;
+    
+}
+.drinks {
+    margin: 10px;
+}
